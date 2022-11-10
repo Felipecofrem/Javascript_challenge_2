@@ -1,0 +1,20 @@
+a {
+  text-decoration: none;
+}
+
+.ico {
+  height: 50px;
+  width: 50px;
+}
+
+body {
+  background-color: azure;
+}
+
+#color {
+    border: 2px solid;
+    height: 250px;
+    display: block;
+    margin: auto;
+    margin-top: 2rem;
+  }
